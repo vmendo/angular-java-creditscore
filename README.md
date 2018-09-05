@@ -8,4 +8,4 @@
 
 	mvn clean package -Pweblogic
 
-And deploy `target/creditscore-1.0.0.war` to WebLogic JEE application server.
+And deploy `target/creditscore-1.0.0.war` to WebLogic JEE application server  .
